@@ -172,24 +172,6 @@
 
 ✅Finalizado o Laboratório.
 
-## **Segue algumas capturas de tela desse Laboratório:**
-
-![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/criacao_bucket.jfif)
-
-![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/editar_politica.jfif)
-
-![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/configuracao.jfif)
-
-![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/upload_imagens.jfif)
-
-![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/tabela.jfif)
-
-![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/imagens_de_funcionarios.jfif)
-
-![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/gerencia_existente.jfif)
-
-![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/adicionar_funcionario.jfif)
-
 
 ## **_____________________________________________________________________________________________________**
 
@@ -224,22 +206,5 @@ fiquei observando o dimensionamento do aplicativo em tempo real.
 
 ✅Testei o aplicativo
 
-## **Segue algumas capturas de tela desse Laboratório:**
-
-![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/load%20balancers.jfif)
-
-![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/grupo_de_seguranca.jfif)
-
-![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/modelo_execucao.jfif)
-
-![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/grupo_de_destino.jfif)
-
-![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/auto_scaling.jfif)
-
-![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/assinatura.jfif)
-
-![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/configuracao_diretorio.jfif)
-
-![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/configuracao_diretorio_teste.jfif)
 
 
