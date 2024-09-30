@@ -15,7 +15,6 @@
 ✅Experimentar políticas e acesso a serviços
 
 
-
 ## 👩🏼‍💻 **Visão geral do Laboratório:**
 
 
@@ -63,8 +62,16 @@
 
 ## **Segue algumas capturas de tela desse Laboratório:**
 
+![Laboratorio1](https://github.com/paolacsouza/curso-aws/blob/main/lab1/grupo_de_usuario.jfif)
 
-## **_______________________________________________**
+![Laboratorio1](https://github.com/paolacsouza/curso-aws/blob/main/lab1/usuarios.jfif)
+
+![Laboratorio1](https://github.com/paolacsouza/curso-aws/blob/main/lab1/login_iam.jfif)
+
+![Laboratorio1](https://github.com/paolacsouza/curso-aws/blob/main/lab1/interrupcao_da_instancia.jfif)
+
+
+## **_____________________________________________________________________________________________________**
 
 ## **Laboratório 2: Criar uma VPC e iniciar um aplicativo web na instância do Amazon EC2**
 
@@ -103,8 +110,22 @@
 
 ## **Segue algumas capturas de tela desse Laboratório:**
 
-## **_______________________________________________**
+![Laboratorio2](https://github.com/paolacsouza/curso-aws/blob/main/lab2/fluxo_de_trabalho_vpc.jfif)
 
+![Laboratorio2](https://github.com/paolacsouza/curso-aws/blob/main/lab2/previsualizacao.jfif)
+
+![Laboratorio2](https://github.com/paolacsouza/curso-aws/blob/main/lab2/tabelas_de_rota.jfif)
+
+![Laboratorio2](https://github.com/paolacsouza/curso-aws/blob/main/lab2/grupo_de_seguranca.jfif)
+
+![Laboratorio2](https://github.com/paolacsouza/curso-aws/blob/main/lab2/execucao_da_instancia.jfif)
+
+![Laboratorio2](https://github.com/paolacsouza/curso-aws/blob/main/lab2/instancia.jfif)
+
+![Laboratorio2](https://github.com/paolacsouza/curso-aws/blob/main/lab2/aplicativo_web.jfif)
+
+
+## **_____________________________________________________________________________________________________**
 
 ## **Laboratório 3: Configurar um aplicativo web para usar um bucket do Amazon S3 e uma tabela do Amazon DynamoDB**
 
@@ -153,8 +174,24 @@
 
 ## **Segue algumas capturas de tela desse Laboratório:**
 
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/criacao_bucket.jfif)
 
-## **_______________________________________________**
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/editar_politica.jfif)
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/configuracao.jfif)
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/upload_imagens.jfif)
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/tabela.jfif)
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/imagens_de_funcionarios.jfif)
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/gerencia_existente.jfif)
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/adicionar_funcionario.jfif)
+
+
+## **_____________________________________________________________________________________________________**
 
 ## **Laboratório 4: Configurar alta disponibilidade para seu aplicativo**
 
@@ -188,5 +225,21 @@ fiquei observando o dimensionamento do aplicativo em tempo real.
 ✅Testei o aplicativo
 
 ## **Segue algumas capturas de tela desse Laboratório:**
+
+![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/load%20balancers.jfif)
+
+![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/grupo_de_seguranca.jfif)
+
+![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/modelo_execucao.jfif)
+
+![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/grupo_de_destino.jfif)
+
+![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/auto_scaling.jfif)
+
+![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/assinatura.jfif)
+
+![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/configuracao_diretorio.jfif)
+
+![Laboratorio4](https://github.com/paolacsouza/curso-aws/blob/main/lab4/configuracao_diretorio_teste.jfif)
 
 
