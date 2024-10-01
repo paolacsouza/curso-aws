@@ -71,7 +71,7 @@
 ![Laboratorio1](https://github.com/paolacsouza/curso-aws/blob/main/lab1/interrupcao_da_instancia.jfif)
 
 
-## **_____________________________________________________________________________________________________**
+## **_______________________________________________________________________________**
 
 ## **Laboratório 2: Criar uma VPC e iniciar um aplicativo web na instância do Amazon EC2**
 
@@ -125,7 +125,7 @@
 ![Laboratorio2](https://github.com/paolacsouza/curso-aws/blob/main/lab2/aplicativo_web.jfif)
 
 
-## **_____________________________________________________________________________________________________**
+## **_______________________________________________________________________________**
 
 ## **Laboratório 3: Configurar um aplicativo web para usar um bucket do Amazon S3 e uma tabela do Amazon DynamoDB**
 
@@ -172,8 +172,33 @@
 
 ✅Finalizado o Laboratório.
 
+## **Segue algumas capturas de tela desse Laboratório:**
 
-## **_____________________________________________________________________________________________________**
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/criacao_bucket.jfif)
+
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/editar_politica.jfif)
+
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/tabela.jfif)
+
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/configuracao.jfif)
+
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/upload_imagens.jfif)
+
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/imagens_de_funcionarios.jfif)
+
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/gerencia_existente.jfif)
+
+
+![Laboratorio3](https://github.com/paolacsouza/curso-aws/blob/main/lab3/adicionar_funcionario.jfif)
+
+
+## **_______________________________________________________________________________**
 
 ## **Laboratório 4: Configurar alta disponibilidade para seu aplicativo**
 
@@ -205,6 +230,8 @@ fiquei observando o dimensionamento do aplicativo em tempo real.
 ✅Criei um grupo de Auto Scaling
 
 ✅Testei o aplicativo
+
+
 
 
 
